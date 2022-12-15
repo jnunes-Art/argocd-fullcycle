@@ -8,5 +8,5 @@ namespace: goapp
 
 images:
 - name: goapp
-  newName: goapp
-  newTag: v1
+  newName: zearnaldo1980/argocd-fullcycle
+  newTag: 4c77d3cfe0d1d2c68088aa6f78685809e2c0550b
